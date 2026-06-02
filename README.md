@@ -60,7 +60,7 @@ This project demonstrates a data analytics workflow for a Machine Learning Inter
   python download_dataset.py
   ```
 
-## Resume-ready contributions
+## contributions
 - Cleaned and validated sales and profitability data for Nassau Candy Distributor.
 - Computed business metrics and product-level profitability to surface the most valuable product lines.
 - Performed division performance comparison and Pareto analysis to guide pricing and product rationalization.
