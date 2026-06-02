@@ -21,6 +21,10 @@ env/
 coverage.xml
 htmlcov/
 
+# Generated outputs
+cleaned_nassau_candy.csv
+*_summary.csv
+
 # OS files
 .DS_Store
 Thumbs.db
