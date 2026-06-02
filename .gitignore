@@ -28,6 +28,3 @@ cleaned_nassau_candy.csv
 # OS files
 .DS_Store
 Thumbs.db
-
-# Streamlit
-.streamlit/
